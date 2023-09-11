@@ -2,6 +2,8 @@ import React from "react";
 
 const Picture = ({ data }) => {
   return (
+
+    // 包裝圖片的內容
     <div className="picture">
       <p>{data.photographer}</p>
       <div className="imageContainer">
