@@ -2,6 +2,8 @@ import { Outlet, Link } from "react-router-dom";
 import React from "react";
 import Footer from "./components/Footer";
 
+
+// 網站的版面配置
 const Layout = () => {
   return (
     <div>
